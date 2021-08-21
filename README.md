@@ -15,4 +15,4 @@ I will provide both a still image as `.png` and an animated `.gif`.
 
 ![Day 3 image](media/Day3.png)
 
-![Day 3 gif](media/Day03.gif)
+![Day 3 gif](media/C7152D36-713D-4302-ADF7-2DA34407D01F.gif)

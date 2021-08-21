@@ -10,3 +10,9 @@ I will provide both a still image as `.png` and an animated `.gif`.
 ![Day1 and Day2 image](media/Day1-and-Day2.png)
 
 ![Day1 and Day2 gif](media/Day01-02.gif)
+
+## Day 3
+
+![Day 3 image](media/Day3.png)
+
+![Day 3 gif](media/Day3.gif)

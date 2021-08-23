@@ -22,3 +22,9 @@ I will provide both a still image as `.png` and an animated `.gif`.
 ![Day 4 image](media/Day4.png)
 
 ![Day 4 gif](media/Day4.gif)
+
+## Day 5
+
+![Day 4 image](media/Day5.png)
+
+![Day 4 gif](media/Day5.gif)

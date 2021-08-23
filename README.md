@@ -15,6 +15,7 @@ I will provide both a still image as `.png` and an animated `.gif`.
 
 ![Day 3 image](media/Day3.png)
 
+<<<<<<< HEAD
 ![Day 3 gif](media/Day3.gif)
 
 ## Day 4

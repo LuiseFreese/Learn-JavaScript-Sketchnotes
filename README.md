@@ -3,58 +3,5 @@
 Started my #100DaysOfCode on August 19, 2021 and want to learn JavaScript. I am following this course: [The Complete JavaScript Course 2021: From Zero to Expert](https://www.udemy.com/course/the-complete-javascript-course/) and will document my learning progress with my sketchnotes.
 
 You can [follow me on twitter](https://twitter.com/LuiseFreese) to get each day a sketchnote of my journey in your feed :-) - I will use #100DaysofCode and #LearnJavaScriptSketchNotes.
-I will provide both a still image as `.png` and an animated `.gif`.
 
-## Day 1 and Day 2
-
-![Day1 and Day2 image](media/Day1-and-Day2.png)
-
-![Day1 and Day2 gif](media/Day01-02.gif)
-
-## Day 3
-
-![Day 3 image](media/Day3.png)
-
-![Day 3 gif](media/Day03.gif)
-
-## Day 4
-
-![Day 4 image](media/Day4.png)
-
-![Day 4 gif](media/Day04.gif)
-
-## Day 5
-
-![Day 5 image](media/Day5.png)
-
-![Day 5 gif](media/Day5.gif)
-
-## Day 6
-
-![Day 6 image](media/Day6.png)
-
-![Day 6 gif](media/Day6.gif)
-
-## Day 7
-
-![Day 7 image](media/Day7.png)
-
-![Day 7 gif](media/Day7.gif)
-
-## Day 8
-
-![Day 8 image](media/Day8.png)
-
-![Day 8 gif](media/Day8.gif)
-
-## Day 9
-
-![Day 9 image](media/Day9.png)
-
-![Day 9 gif](media/Day9.gif)
-
-## Day 10
-
-![Day 10 image](media/Day10.png)
-
-![Day 10 gif](media/Day10.gif)
+[See all sketchnotes here](https://luisefreese.github.io/Learn-JavaScript-Sketchnotes)
